@@ -1,8 +1,10 @@
-# Brazilian Summer Nights
+Reunion Cafe & Secret Flavours present:
 
-A night to enjoy hearty food, good music and to celebrate the wonders of Brazil
+# A night in Brazil
 
-24th of June we
+## Enjoy hearty and healthy food, good music celebrate the wonders of Brazil with your friends. 
+24th of June at Reunion Cafe 
+
 
 
 # Menu options
