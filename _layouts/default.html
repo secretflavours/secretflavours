@@ -59,8 +59,8 @@
       // a successful payment.
       // Instead use one of the strategies described in
       // https://stripe.com/docs/payments/checkout/fulfillment
-      successUrl: 'http://secretflavours.com/success',
-      cancelUrl: 'http://secretflavours.com/canceled',
+      successUrl: 'https://secretflavours.github.io.com/success',
+      cancelUrl: 'https://secretflavours.github.io.com/canceled',
     })
     .then(function (result) {
       if (result.error) {
@@ -73,16 +73,14 @@
   });
 </script>
 
-      <footer class="site-footer">
+      <footer class="site-footer" style="text-align: center;">
         <img src="assets/images/logo_secret.png" style="
-            display: inline-block;
-            vertical-align: middle;
-            margin-right: 10px;
+            display: block;
+            margin: auto;
+            margin-bottom: 30px;
         ">
         <span class="site-footer-credits" style="
-            display: inline-block;
-            vertical-align: middle;
-            margin-left: 10px;
+            display: block;
         ">
           made with love in London. Enabled by GitHub
         </span>
