@@ -2,6 +2,7 @@ Reunion Cafe presents:
 
 # Brazilian Nights
 
+![image](/assets/images/brazilian_nights.png)
 
 
 Enjoy the delicious food and vibrant music of Brazil. Reunion Cafe invite you to try the authentic tastes of the tropics. A 3 course menu with a vegan option.  
@@ -54,3 +55,5 @@ Creamy fresh passion fruit mousse
 
 #### Vegan Passion Fruit Mousse
 Creamy and fresh passion fruit mousse made with tofu
+
+
