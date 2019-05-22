@@ -12,9 +12,6 @@
       </script>
     {% endif %}
     <meta charset="UTF-8">
-    
-    <!-- Load Stripe.js on your website. -->
-<script src="https://js.stripe.com/v3"></script>
 
 {% seo %}
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -30,8 +27,6 @@
     <main id="content" class="main-content" role="main" style="text-align:center">
       {{ content }}
       
-      <!-- Load Stripe.js on your website. -->
-      <script src="https://js.stripe.com/v3"></script>
 
       <!-- Create a button that your customers click to complete their purchase. Customize the styling to suit your branding. -->
       <button
@@ -42,36 +37,37 @@
         Checkout
       </button>
 
-<div id="error-message"></div>
+      <div id="error-message"></div>
+      <!-- Load Stripe.js on your website. -->
+      <script src="https://js.stripe.com/v3"></script>
+      <script>
+        var stripe = Stripe('pk_live_NqIRd2T2K9db9x9f2VPnQsyB');
 
-<script>
-  var stripe = Stripe('pk_live_NqIRd2T2K9db9x9f2VPnQsyB');
+        var checkoutButton = document.getElementById('checkout-button-sku_F7DltKawDbH0u7');
+        checkoutButton.addEventListener('click', function () {
+          // When the customer clicks on the button, redirect
+          // them to Checkout.
+          stripe.redirectToCheckout({
+            items: [{sku: 'sku_F7DltKawDbH0u7', quantity: 1}],
 
-  var checkoutButton = document.getElementById('checkout-button-sku_F7DltKawDbH0u7');
-  checkoutButton.addEventListener('click', function () {
-    // When the customer clicks on the button, redirect
-    // them to Checkout.
-    stripe.redirectToCheckout({
-      items: [{sku: 'sku_F7DltKawDbH0u7', quantity: 1}],
-
-      // Do not rely on the redirect to the successUrl for fulfilling
-      // purchases, customers may not always reach the success_url after
-      // a successful payment.
-      // Instead use one of the strategies described in
-      // https://stripe.com/docs/payments/checkout/fulfillment
-      successUrl: 'https://secretflavours.github.io.com/success',
-      cancelUrl: 'https://secretflavours.github.io.com/canceled',
-    })
-    .then(function (result) {
-      if (result.error) {
-        // If `redirectToCheckout` fails due to a browser or network
-        // error, display the localized error message to your customer.
-        var displayError = document.getElementById('error-message');
-        displayError.textContent = result.error.message;
-      }
-    });
-  });
-</script>
+            // Do not rely on the redirect to the successUrl for fulfilling
+            // purchases, customers may not always reach the success_url after
+            // a successful payment.
+            // Instead use one of the strategies described in
+            // https://stripe.com/docs/payments/checkout/fulfillment
+            successUrl: 'https://secretflavours.github.io.com/success',
+            cancelUrl: 'https://secretflavours.github.io.com/canceled',
+          })
+          .then(function (result) {
+            if (result.error) {
+              // If `redirectToCheckout` fails due to a browser or network
+              // error, display the localized error message to your customer.
+              var displayError = document.getElementById('error-message');
+              displayError.textContent = result.error.message;
+            }
+          });
+        });
+      </script>
 
       <footer class="site-footer" style="text-align: center;">
         <img src="assets/images/logo_secret.png" style="
