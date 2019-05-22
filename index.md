@@ -1,16 +1,17 @@
-Reunion Cafe & Secret Flavours present:
+Reunion Cafe presents:
 
-# A night in Brazil
+# Brazilian Nights
 
-## Enjoy hearty and healthy food, good music celebrate the wonders of Brazil with your friends. 
-24th of June at Reunion Cafe 
-
+## Enjoy a delicious food, vibrant music and the heart warming Brazilian culture with your friends. 
 
 
-# Menu options
+ 
+7th of June - Reunion Cafe  
 
-### Welcome drink:
-Caipirinha
+
+
+### A 3-course meal with
+
 
 
 ### Starters
