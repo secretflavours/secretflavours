@@ -2,7 +2,9 @@ Reunion Cafe presents:
 
 # Brazilian Nights
 
-## Enjoy a delicious food, vibrant music and the heart warming Brazilian culture with your friends. 
+
+
+Enjoy the delicious food and vibrant music of Brazil. Reunion Cafe invite you to try the authentic tastes of the tropics. A 3 course menu with a vegan option.  
 
 
  
