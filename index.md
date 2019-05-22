@@ -1,15 +1,17 @@
-## Brazilian Summer Nights
+# Brazilian Summer Nights
 
 A night to enjoy hearty food, good music and to celebrate the wonders of Brazil
 
 24th of June we
 
 
-#Welcome drink:
+# Menu options
+
+### Welcome drink:
 Caipirinha
 
 
-#Starters
+### Starters
 
 Tapioca dices
 Mix of granulated tapioca with grated cheese cut in dices and deep fried, served with sweet chilli sauce
@@ -21,7 +23,7 @@ Pastel (Vegan)
 Fried pastries are filled with sauted vegetables, served with chilli sauce
 
 
-#Main
+### Main
 
 Feijoada
 
@@ -36,7 +38,7 @@ Moqueca (Vegan)
 The vegan moqueca is fragrant and flavourful stew, made with plantain, tomatoes, coriander, bell peppers and coconut milk. It's served with rice and farofa.
 
 
-#Desert
+### Desert
 
 Brazilian Carrot Cake covered with chocolate
 A soft and moist carrot cake covered with chocolate sauce
