@@ -12,8 +12,9 @@ An unforgettable Friday night: a supper club with samba. A curated 3 course menu
  
 7th of June, 8pm - Reunion Cafe - Crystal Palace   
 
-************************
 Menu
+
+************************
 
 ### Starter
 
@@ -50,3 +51,5 @@ Creamy fresh passion fruit mousse
 Creamy and fresh passion fruit mousse made with tofu
 
 *************************
+
+Only 35 seats. One welcome drink (Caipirinha) per ticket. Beverages will be sold in the venue. Tickets are transferable but not refundable. Consult us about food allergies.  
