@@ -10,7 +10,7 @@ _Reunion Cafe & Secret Flavours presents_
 An unforgettable Friday night: a supper club with samba. <br>
 3 course menu with brazilian iconic dishes followed by a dance party with DJ up to 1am. 
 
-### 7th of June, 8pm 
+### 7th of June, 7:30pm 
 
 Reunion Cafe
 Crystal Palace
