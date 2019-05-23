@@ -52,4 +52,8 @@ Creamy and fresh passion fruit mousse made with tofu
 
 *************************
 
-Only 35 seats. One welcome drink (Caipirinha) per ticket. Beverages will be sold in the venue. Tickets are transferable but not refundable. Consult us about food allergies.  
+Only 35 seats. You will be able to choose your menu options
+after payment. One welcome drink (Caipirinha) per ticket.\
+Beverages will be sold in the venue.\
+ Tickets are transferable but not refundable.\
+Consult us about food allergies.  
