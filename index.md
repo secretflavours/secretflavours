@@ -1,29 +1,31 @@
-Reunion Cafe presents:
+Reunion Cafe & Secret Flavours presents:
 
 # Brazilian Nights
 
 ![image](/assets/images/brazilian_nights.png)
 
 
-Enjoy the delicious food and vibrant music of Brazil. Reunion Cafe invite you to try the authentic tastes of the tropics. A 3 course menu with a vegan option.  
+## A journey into the delicious food and vibrant music of Brazil.
 
+An unforgettable Friday night: a supper club with samba. A curated 3 course menu with brazilian iconic dishes followed by a dance party.  
 
  
-7th of June - Reunion Cafe  
+7th of June, 8pm - Reunion Cafe - Crystal Palace   
 
+Menu
+***
 
-
-### A 3-course meal with
-
-
-
-### Starters
+### Starter
 
 #### Tapioca dices
 Mix of granulated tapioca with grated cheese cut in dices and deep fried, served with sweet chilli sauce
 
+or
+
 #### Pastel
 Fried pastries are filled with ground beef and cheese, served with chilli sauce
+
+or
 
 #### Pastel (Vegan)
 Fried pastries are filled with sauted vegetables, served with chilli sauce
@@ -32,7 +34,7 @@ Fried pastries are filled with sauted vegetables, served with chilli sauce
 ### Main
 
 #### Feijoada
-Considered the national dish of Brazil, feijoada is a comforting and flavourful black bean and pork stew. It is served with rice, sautéed collard greens or kale, orange slices and farofa (toasted cassava flour).
+Feijoada is a comforting and flavourful black bean and pork stew. It is served with rice, sautéed collard greens or kale, orange slices and farofa (toasted cassava flour).
 
 
 #### Moqueca 
@@ -53,7 +55,8 @@ A soft and moist carrot cake covered with chocolate sauce
 Creamy fresh passion fruit mousse
 
 
-#### Vegan Passion Fruit Mousse
+#### Passion Fruit Mousse (Vegan)
 Creamy and fresh passion fruit mousse made with tofu
 
+***
 
