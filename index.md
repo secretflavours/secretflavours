@@ -13,7 +13,7 @@ An unforgettable Friday night: a supper club with samba. A curated 3 course menu
 7th of June, 8pm - Reunion Cafe - Crystal Palace   
 
 Menu
-___
+---
 
 ### Starter
 
@@ -48,4 +48,5 @@ Creamy fresh passion fruit mousse
 
 #### Passion Fruit Mousse (Vegan)
 Creamy and fresh passion fruit mousse made with tofu
-___
+
+---
