@@ -61,7 +61,7 @@ Creamy and fresh passion fruit mousse made with tofu
 
 (Choose one starter, one main and one dessert) 
 
-*28 pounds with one welcome drink (Caipirinha) included.* .<br><br>
+*28 pounds per person.<br><br>
 Beverages will be sold in the venue.<br>
 
 [Email us](mailto:info@reunioncafe.com) to secure your reservation. 
