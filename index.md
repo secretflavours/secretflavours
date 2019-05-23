@@ -7,10 +7,10 @@ _Reunion Cafe & Secret Flavours presents_
 
 ## A journey into the delicious food and vibrant music of Brazil.
 
-An unforgettable Friday night: a supper club with samba. A curated 3 course menu with brazilian iconic dishes followed by a dance party.  
+An unforgettable Friday night: a supper club with samba. 
+3 course menu with brazilian iconic dishes followed by a dance party. 
 
- 
-7th of June, 8pm - Reunion Cafe - Crystal Palace   
+### 7th of June, 8pm - Reunion Cafe - Crystal Palace   
 
 Menu
 
@@ -51,9 +51,11 @@ Creamy fresh passion fruit mousse
 Creamy and fresh passion fruit mousse made with tofu
 
 *************************
+<br>
 
-You will be able to choose your menu options
-after payment<br> One welcome drink (Caipirinha) per ticket.<br>
+*25 pounds with one welcome drink (Caipirinha) included.* .<br><br>
 Beverages will be sold in the venue.<br>
- Tickets are transferable but not refundable.<br>
-Consult us about food allergies.  
+Tickets are transferable but not refundable.<br>
+Pay online with any debit or credit card.
+
+[Email us](mailto:leili@secretflavours.com) with your questions   
