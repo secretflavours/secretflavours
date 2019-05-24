@@ -45,7 +45,7 @@ Moqueca is fragrant and flavourful fish stew, made with white fish, tomatoes, co
 #### Moqueca (Vegan) 
 The vegan moqueca is fragrant and flavourful stew, made with plantain, tomatoes, coriander, bell peppers and coconut milk. It's served with rice and farofa.
 
-### Desert
+### Dessert
 
 #### Brazilian Carrot Cake covered with chocolate
 A soft and moist carrot cake covered with chocolate sauce
