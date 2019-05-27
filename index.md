@@ -64,4 +64,4 @@ Creamy and fresh passion fruit mousse made with tofu
 __28 pounds per person__<br><br>
 Beverages will be sold in the venue.<br>
 
-[Email us](mailto:info@reunioncafe.com) to secure your reservation. 
+[Email us](mailto:info@reunioncafe.co.uk) to secure your reservation. 
