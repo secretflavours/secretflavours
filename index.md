@@ -1,6 +1,6 @@
 _Reunion Cafe & Secret Flavours presents_
 
-# b o s s a   k i t c h e n
+# b o s s a ;&nbsp k i t c h e n
 
 ![image](/assets/images/BOSSA_KITCHEN.png)
 
