@@ -2,7 +2,7 @@ _Reunion Cafe & Secret Flavours presents_
 
 # Brazilian Nights
 
-![image](/assets/images/brazilian_nights.png)
+![image](/assets/images/BOSSA_KITCHEN.png)
 
 
 ## A journey into the delicious food and vibrant music of Brazil.
@@ -65,3 +65,4 @@ __28 pounds per person__<br><br>
 Beverages will be sold in the venue.<br>
 
 [Email us](mailto:info@reunioncafe.co.uk) to secure your reservation. 
+<br>
