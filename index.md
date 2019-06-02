@@ -1,13 +1,12 @@
 _Reunion Cafe & Secret Flavours presents_
 
-# b o s s a ;&nbsp k i t c h e n
 
 ![image](/assets/images/BOSSA_KITCHEN.png)
 
 
 ## A journey into the delicious food and vibrant music of Brazil.
 
-An unforgettable Friday night: a supper club with samba. <br>
+An unforgettable Friday night: a supper club with bossa. <br>
 3 course menu with brazilian iconic dishes followed by a dance party with DJ up to 1am. 
 
 ### 7th of June, 7:30pm 
